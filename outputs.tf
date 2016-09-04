@@ -3,5 +3,4 @@ output "ami_id" {
     value = "${data.aws_ami.base_ami.id}"
 }
 
-
-#-- set expandtab tabstop=4 shiftwidth=4 ai et
+#--- expandtab tabstop=4 shiftwidth=4 ai et ---#

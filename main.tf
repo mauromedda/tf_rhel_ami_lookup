@@ -43,4 +43,4 @@ data "aws_ami" "base_ami" {
 
 }
 
-#-- set expandtab tabstop=4 shiftwidth=4 ai et
+#--- expandtab tabstop=4 shiftwidth=4 ai et ---#

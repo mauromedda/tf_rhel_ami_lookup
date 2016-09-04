@@ -18,4 +18,4 @@ variable "root-device-type" {
     default         = "ebs"
 }
 
-#-- set expandtab tabstop=4 shiftwidth=4 ai et
+#--- expandtab tabstop=4 shiftwidth=4 ai et ---#
